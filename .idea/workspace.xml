@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2644b1dd-6767-4dbc-8de3-61b0592a9be3" name="Default" comment="企业文档" />
+    <list default="true" id="2644b1dd-6767-4dbc-8de3-61b0592a9be3" name="Default" comment="企业文档">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/banner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/banner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/banner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/banner_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/contact.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/gsjj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/iconlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/logo2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/images/yzm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/news_imgs/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/news_imgs/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-at50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-at88f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-fa50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-h6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-m8088a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-sy101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-yl121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-yl5334e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-yl6334e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/jhq-yl7099h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/lw-h6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/lw-m8088a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/lw-yl121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/lw-yl5334e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/lw-yl6334e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/lw-yl7099h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product-imgs/m8088a/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/03-ajax.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/css/mycss.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/news.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/news_details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/product_details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/js/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/news_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/cart_detail_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/cart_detail_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/cart_detail_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/cart_detail_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/news_detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/news_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/product_detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/product_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/user_check_phone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/user_check_uname.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/user_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/php/user_register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/product_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiye/sql/mfresh.sql" />
+    </list>
     <ignored path="03-ajax.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,15 +336,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482981724699</updated>
-      <workItem from="1501517336214" duration="3776000" />
+      <workItem from="1501517336214" duration="3853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3776000" />
+    <option name="totallyTimeSpent" value="3853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
